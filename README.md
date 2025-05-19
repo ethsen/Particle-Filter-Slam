@@ -37,5 +37,8 @@ I did **not** write any code in `utils.py` or `load_data.py`. My work is limited
 ---
 
 ## Figures
-Examples:
 ![Particle-Filter-Slam](docs/slam_00.png)
+![Particle-Filter-Slam](docs/slam_01.png)
+![Particle-Filter-Slam](docs/slam_02.png)
+![Particle-Filter-Slam](docs/slam_03.png)
+
